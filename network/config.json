@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": "Rebecca Speas, Taylor Williams, Danny Papadopoulos"
+  },
+  "text": {
+    "more": "This data comes from Dr. Nagib Abdou\u0027s worldwide collection of the details concerning Arab-owned businesses and Arab people. Originally published in 1910, Dr. Abdou\u0027s data collection included the location of the business, business information, business owner and operator information, and the business owner\u0027s village of origin. This data was originally transcribed into a digitized pre-tabulated form by the North Carolina State University Khayralla Center. This graph demonstrates the various connections in the United States, pulling entries with a translated village of origin.",
+    "intro": "A Network Analysis of Migration Paths of Arab Immigrants to the United States",
+    "title": "Arab Immigration up to the Early 20th Century"
+  },
+  "legend": {
+    "edgeLabel": "Individuals",
+    "colorLabel": "Clusters",
+    "nodeLabel": "Cities"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": false,
+    "hoverBehavior": "default"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
